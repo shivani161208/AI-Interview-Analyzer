@@ -4,5 +4,8 @@ numpy
 scikit-learn
 joblib
 PyPDF2
-python-docx
-nltk
+plotly
+folium
+streamlit-folium
+streamlit-mic-recorder
+SpeechRecognition
