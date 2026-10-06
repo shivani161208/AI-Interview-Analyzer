@@ -1,0 +1,117 @@
+skill_id,skill,level,question_count,category
+1,Python,Beginner,21,Database
+1,Python,Intermediate,9,Web
+1,Python,Advanced,19,Web
+1,Python,Expert,17,Database
+2,Java,Beginner,5,Technical
+2,Java,Intermediate,16,Technical
+2,Java,Advanced,22,AI/ML
+2,Java,Expert,23,Programming
+3,C++,Beginner,9,Programming
+3,C++,Intermediate,11,Technical
+3,C++,Advanced,11,Cloud
+3,C++,Expert,13,Web
+4,JavaScript,Beginner,15,AI/ML
+4,JavaScript,Intermediate,21,Database
+4,JavaScript,Advanced,13,Programming
+4,JavaScript,Expert,11,Database
+5,SQL,Beginner,17,Cloud
+5,SQL,Intermediate,16,Web
+5,SQL,Advanced,24,Cloud
+5,SQL,Expert,24,Technical
+6,Machine Learning,Beginner,21,Programming
+6,Machine Learning,Intermediate,9,Technical
+6,Machine Learning,Advanced,13,AI/ML
+6,Machine Learning,Expert,8,Database
+7,Deep Learning,Beginner,13,Cloud
+7,Deep Learning,Intermediate,23,AI/ML
+7,Deep Learning,Advanced,7,Database
+7,Deep Learning,Expert,18,Cloud
+8,Data Structures,Beginner,6,Technical
+8,Data Structures,Intermediate,14,Technical
+8,Data Structures,Advanced,21,Programming
+8,Data Structures,Expert,15,Database
+9,Algorithms,Beginner,16,Database
+9,Algorithms,Intermediate,19,AI/ML
+9,Algorithms,Advanced,16,Technical
+9,Algorithms,Expert,6,Cloud
+10,React,Beginner,20,Cloud
+10,React,Intermediate,9,AI/ML
+10,React,Advanced,5,Cloud
+10,React,Expert,24,Cloud
+11,Node.js,Beginner,13,AI/ML
+11,Node.js,Intermediate,19,AI/ML
+11,Node.js,Advanced,9,AI/ML
+11,Node.js,Expert,19,Technical
+12,Spring Boot,Beginner,20,Technical
+12,Spring Boot,Intermediate,10,Web
+12,Spring Boot,Advanced,13,Web
+12,Spring Boot,Expert,9,AI/ML
+13,Django,Beginner,9,AI/ML
+13,Django,Intermediate,17,Database
+13,Django,Advanced,7,AI/ML
+13,Django,Expert,8,Web
+14,Flask,Beginner,6,Web
+14,Flask,Intermediate,15,Web
+14,Flask,Advanced,21,Programming
+14,Flask,Expert,12,Database
+15,TensorFlow,Beginner,24,Cloud
+15,TensorFlow,Intermediate,24,AI/ML
+15,TensorFlow,Advanced,6,AI/ML
+15,TensorFlow,Expert,20,Technical
+16,PyTorch,Beginner,21,Programming
+16,PyTorch,Intermediate,10,AI/ML
+16,PyTorch,Advanced,7,AI/ML
+16,PyTorch,Expert,21,Technical
+17,Pandas,Beginner,7,Database
+17,Pandas,Intermediate,9,Technical
+17,Pandas,Advanced,6,Programming
+17,Pandas,Expert,6,AI/ML
+18,NumPy,Beginner,22,Programming
+18,NumPy,Intermediate,9,Cloud
+18,NumPy,Advanced,9,Programming
+18,NumPy,Expert,7,Web
+19,AWS,Beginner,10,Cloud
+19,AWS,Intermediate,6,Technical
+19,AWS,Advanced,10,Technical
+19,AWS,Expert,22,Cloud
+20,Docker,Beginner,7,Database
+20,Docker,Intermediate,18,Technical
+20,Docker,Advanced,14,Programming
+20,Docker,Expert,10,Programming
+21,Git,Beginner,16,AI/ML
+21,Git,Intermediate,20,AI/ML
+21,Git,Advanced,12,Web
+21,Git,Expert,11,Database
+22,MongoDB,Beginner,18,Cloud
+22,MongoDB,Intermediate,7,Programming
+22,MongoDB,Advanced,5,AI/ML
+22,MongoDB,Expert,13,Technical
+23,MySQL,Beginner,18,Cloud
+23,MySQL,Intermediate,17,AI/ML
+23,MySQL,Advanced,13,Cloud
+23,MySQL,Expert,14,Cloud
+24,PostgreSQL,Beginner,11,Web
+24,PostgreSQL,Intermediate,12,Database
+24,PostgreSQL,Advanced,15,Technical
+24,PostgreSQL,Expert,14,AI/ML
+25,HTML,Beginner,18,AI/ML
+25,HTML,Intermediate,16,Technical
+25,HTML,Advanced,24,Technical
+25,HTML,Expert,16,Web
+26,CSS,Beginner,22,Web
+26,CSS,Intermediate,13,Database
+26,CSS,Advanced,16,Programming
+26,CSS,Expert,20,Cloud
+27,REST API,Beginner,17,Technical
+27,REST API,Intermediate,20,Technical
+27,REST API,Advanced,16,Database
+27,REST API,Expert,23,AI/ML
+28,NLP,Beginner,24,Web
+28,NLP,Intermediate,7,Database
+28,NLP,Advanced,10,Cloud
+28,NLP,Expert,8,Programming
+29,Computer Vision,Beginner,8,Cloud
+29,Computer Vision,Intermediate,6,Technical
+29,Computer Vision,Advanced,16,AI/ML
+29,Computer Vision,Expert,21,Cloud
